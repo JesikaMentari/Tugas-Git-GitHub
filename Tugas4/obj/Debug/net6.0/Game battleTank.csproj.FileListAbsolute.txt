@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Game battleTank\bin\Debug\net6.0\Game battleTank.exe
+C:\Users\User\Desktop\Game battleTank\bin\Debug\net6.0\Game battleTank.deps.json
+C:\Users\User\Desktop\Game battleTank\bin\Debug\net6.0\Game battleTank.runtimeconfig.json
+C:\Users\User\Desktop\Game battleTank\bin\Debug\net6.0\Game battleTank.dll
+C:\Users\User\Desktop\Game battleTank\bin\Debug\net6.0\Game battleTank.pdb
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.AssemblyInfo.cs
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.dll
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\refint\Game battleTank.dll
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.pdb
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\Game battleTank.genruntimeconfig.cache
+C:\Users\User\Desktop\Game battleTank\obj\Debug\net6.0\ref\Game battleTank.dll
+C:\Users\User\Desktop\Tugas4\bin\Debug\net6.0\Game battleTank.exe
+C:\Users\User\Desktop\Tugas4\bin\Debug\net6.0\Game battleTank.deps.json
+C:\Users\User\Desktop\Tugas4\bin\Debug\net6.0\Game battleTank.runtimeconfig.json
+C:\Users\User\Desktop\Tugas4\bin\Debug\net6.0\Game battleTank.dll
+C:\Users\User\Desktop\Tugas4\bin\Debug\net6.0\Game battleTank.pdb
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.AssemblyInfo.cs
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.dll
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\refint\Game battleTank.dll
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.pdb
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\Game battleTank.genruntimeconfig.cache
+C:\Users\User\Desktop\Tugas4\obj\Debug\net6.0\ref\Game battleTank.dll
